@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Web Design Course",
+        "price": 3500,
+        "rating": 5,
+        "img": "https://miro.medium.com/max/900/0*PpjD_9o8YzOn_zLW.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Python Course",
+        "price": 6500,
+        "rating": 4,
+        "img": "https://hackr.io/blog/best-python-courses/thumbnail/large"
+    },
+    {
+        "id": 3,
+        "name": "Graphic Design Course",
+        "price": 5000,
+        "rating": 4,
+        "img": "https://outdosystem.in/assets/images/graphic-designing.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Web Development Course",
+        "price": 9000,
+        "rating": 5,
+        "img": "https://skyhawkkinetic.com/wp-content/uploads/2021/08/how-to-be-a-full-stack-developer.png"
+    },
+    {
+        "id": 5,
+        "name": "C++ Course",
+        "price": 3000,
+        "rating": 4,
+        "img": "https://blog.codingblocks.com/content/images/size/w2000/2019/07/COVER.jpg"
+    },
+    {
+        "id": 6,
+        "name": "C# Course",
+        "price": 4000,
+        "rating": 4.5,
+        "img": "https://hackr.io/blog/best-csharp-courses/thumbnail/large"
+    },
+    {
+        "id": 7,
+        "name": "C Programming Course",
+        "price": 4500,
+        "rating": 4,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaAqMz52S2nOcYwv-o2UzZG5u2SaGMkwQqTA&usqp=CAU"
+    },
+    {
+        "id": 8,
+        "name": "Ethical Hacking Course",
+        "price": 5000,
+        "rating": 3,
+        "img": "https://hackr.io/blog/best-ethical-hacking-courses/thumbnail/large"
+    },
+    {
+        "id": 9,
+        "name": "Basic Computer Courses",
+        "price": 2000,
+        "rating": 4.5,
+        "img": "https://5.imimg.com/data5/AF/NY/XE/SELLER-51580945/basic-computer-course-500x500.jpg"
+    },
+    {
+        "id": 10,
+        "name": " Advance Java Course",
+        "price": 2500,
+        "rating": 4,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzdEV2ju9GKRnVqWeCdt8QSMaYWJg6tWiFijgF-KeETQyxUUwn08Jbs6-fxZdDcj9bYuA&usqp=CAU"
+    },
+    {
+        "id": 11,
+        "name": "Javascript Course",
+        "price": 2500,
+        "rating": 5,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo3kKIDALfN9lXU6w3dB4BiYYz1Iavx65-rpzkAU3Yv6yBIxcaNUPJ1-0YoIr7L5Us0cA&usqp=CAU"
+    },
+    {
+        "id": 12,
+        "name": "Php Course",
+        "price": 3500,
+        "rating": 4.5,
+        "img": "https://www.fossmint.com/wp-content/uploads/2020/03/Best-PHP-Courses-for-Beginners.png"
+    }
+]

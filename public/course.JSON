@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Web Design Course",
+        "price": 3500,
+        "rating": 5,
+        "img": "https://miro.medium.com/max/900/0*PpjD_9o8YzOn_zLW.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Python Course",
+        "price": 6500,
+        "rating": 4,
+        "img": "https://hackr.io/blog/best-python-courses/thumbnail/large"
+    },
+    {
+        "id": 3,
+        "name": "Graphic Design Course",
+        "price": 5000,
+        "rating": 4,
+        "img": "https://outdosystem.in/assets/images/graphic-designing.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Web Development Course",
+        "price": 9000,
+        "rating": 5,
+        "img": "https://skyhawkkinetic.com/wp-content/uploads/2021/08/how-to-be-a-full-stack-developer.png"
+    },
+    {
+        "id": 5,
+        "name": "C++ Course",
+        "price": 3000,
+        "rating": 4,
+        "img": "https://blog.codingblocks.com/content/images/size/w2000/2019/07/COVER.jpg"
+    },
+    {
+        "id": 6,
+        "name": "C# Course",
+        "price": 4000,
+        "rating": 4.5,
+        "img": "https://hackr.io/blog/best-csharp-courses/thumbnail/large"
+    }
+]

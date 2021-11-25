@@ -1,0 +1,14 @@
+.design{
+    text-align: center;
+    margin: 20px 200px;
+    background-color: blueviolet;
+    color: wheat;
+    padding: 10px;
+    border-radius: 10px;
+}
+.style{
+    width: 800px;
+    height: 400px;
+    margin: 20px;
+    border-radius: 10px;
+}

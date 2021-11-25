@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Web Design Course",
+        "price": 3500,
+        "img": "https://miro.medium.com/max/900/0*PpjD_9o8YzOn_zLW.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Python Course",
+        "price": 6500,
+        "img": "https://hackr.io/blog/best-python-courses/thumbnail/large"
+    },
+    {
+        "id": 3,
+        "name": "Graphic Design Course",
+        "price": 5000,
+        "img": "https://outdosystem.in/assets/images/graphic-designing.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Web Development Course",
+        "price": 9000,
+        "img": "https://skyhawkkinetic.com/wp-content/uploads/2021/08/how-to-be-a-full-stack-developer.png"
+    }
+]
